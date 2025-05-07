@@ -1,9 +1,9 @@
 import React from 'react';
-import Hero from './components/Hero';
-import HowItWorks from './components/HowItWorks';
-import WhyChooseUs from './components/WhyChooseUs';
-import Testimonials from './components/Testimonials';
-import ContactForm from './components/ContactForm';
+import Hero from './Components/Hero';
+import HowItWorks from './Components/HowItWorks';
+import WhyChooseUs from './Components/WhyChooseUs';
+import Testimonials from './Components/Testimonials';
+import ContactForm from './Components/ContactForm';
 
 function App() {
   return (
